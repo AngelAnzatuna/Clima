@@ -112,7 +112,7 @@ function Spinner() {
     limpiarHTML();
 
     const divSpinner = document.createElement('div');
-    divSpinner.classList.add('.sk-fading-circle');
+    divSpinner.classList.add('sk-fading-circle');
 
     divSpinner.innerHTML = `
         <div class="sk-circle1 sk-circle"></div>
